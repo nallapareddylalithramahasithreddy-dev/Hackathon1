@@ -1,3 +1,25 @@
+
+// 1a) Data Types:
+
+Write a Java program to store and display the following details of a household:
+
+Number of family members – integer
+Water consumed in litres – decimal value
+House number – integer
+Water usage status – character
+Use appropriate Java data types for each value and display all the details.
+
+
+
+
+
+
+
+
+
+
+
+
 class House1 {
 public static void main(String[] args) {
 int familymembers = 4;
